@@ -1,1 +1,10 @@
+---
+title: About me
+layout: template
+filename: about.md
+theme: minima
+---
+title: Welcome!
+layout: template
+filename: README.md
 theme: minima
