@@ -4,7 +4,7 @@ title:  "Migration of GitHub page personal site from React to Jekyll"
 date:   2024-06-02 15:03:55 -0400
 categories: website update
 ---
-Hello, if you are reading this; Welcome to the new website! I have recently moved my old React GH site to a new Jekyll GH site. I found Jekyll to have most of the features I was looking for. Before I knew about Jekyll I manually implemented many base features it provided it in my React SPA. By extension it also ends up being easier to extend this websites content. Jekyll offers powerful templating features which makes writing static websites signifgantly easier. The task of having to update the React router and associated components ended up being a bit much for what was effectively a simple one page application. I hope to regularly post updates on here as my new projects unfold.
+Hello, if you are reading this; Welcome to the new website! I have recently moved my old React GH site to a new Jekyll GH site. I found Jekyll to have most of the features I was looking for. Before I knew about Jekyll I manually implemented many base features it provided in my React SPA. By extension it also ends up being easier to extend my websites content. Jekyll offers powerful templating features which makes writing static websites significantly easier. The task of having to update the React router and associated components ended up being alot for what was effectively a simple one page application. I hope to regularly post updates on here as my new projects unfold.
 
 Here is information below if you are interested in using Jekyll for your GH page website. I can highly recommend it for personal websites and doc sites alike.
 #### **Docs for setting up Jekyll on Github Pages**
