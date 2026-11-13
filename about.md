@@ -11,3 +11,8 @@ If you are interested in reaching out to me for oppurtunities and/or consultatio
 [Resume](/assets/static-files/Resume.pdf)
 
 [Transcript](/assets/static-files/Transcript.pdf)
+
+## Projects
+
+- [Substation](https://github.com/dellathefella/substation) — a local-first AI compute orchestrator for macOS with auto-routing across llama.cpp engines, model management, and multi-Mac clustering over Thunderbolt RPC.
+- [Strata](https://github.com/dellathefella/Strata/tree/tp-sycl) — SYCL tensor parallelism (`--tp 2..4`) on Intel Arc Pro B60 GPUs, including shard planning, a host-staged all-reduce, and shard-aware weight loading.
